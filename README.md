@@ -115,7 +115,7 @@ npm start
       "imageUrl": "ipfs://QmXYZ...",
       "addedAt": "2025-03-16T12:00:00Z"
     },
-    ...
+    
   ]
 }
 ```
